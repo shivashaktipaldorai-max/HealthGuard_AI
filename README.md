@@ -68,9 +68,7 @@ https://drive.google.com/file/d/1Y-iApVDaS7CakZX6x2_TfVZ04bBbyiA5/view?usp=drive
 
 ## 📄 Project Presentation
 
-The project presentation is available in this repository as:
-
-`presentation.pdf`
+https://docs.google.com/presentation/d/1qjbPPQOjJ1Unth0MvtEppO1AN6OWfYs6/edit?usp=sharing&ouid=102473097615427050553&rtpof=true&sd=true
 
 ## 🌱 Future Enhancements
 
